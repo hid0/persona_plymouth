@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Persona
+Description=Minimalize progress bar with Persona
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/persona
+ScriptFile=/usr/share/plymouth/themes/persona/persona.script
