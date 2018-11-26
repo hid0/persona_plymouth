@@ -12,8 +12,11 @@ how To install
 2. enter this
 ```
 git clone https://github.com/personaproject/persona_plymouth
+cd persona_plymouth
 chmod ug+x ./install.sh
 ./install.sh
 ```
-
-
+Any Questions?
+Plz contact me on
+me.msyariefh@gmail.com
+085225915434 (Whatsapp)
