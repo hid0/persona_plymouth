@@ -2,6 +2,7 @@
 # minimalize Progress bar
 # Created with love by M. Syarief Hidayatulloh
 # Free use with credit on me
+# Terimakasih
 
 MAX_MSG_DISPLAYED = 5;
 bg_image = Image("persona_background.png");
