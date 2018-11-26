@@ -4,7 +4,7 @@
 	<img src="preview_persona.png">
 </div
 
-Plymouth for Persona Conky Theme
+
 
 
 how To install
