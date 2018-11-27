@@ -5,17 +5,17 @@
 </div
 
 
-how To install
-<div
+How To install
+
 1. open terminal
-2. enter this
+2. enter this command
 ```
 git clone https://github.com/personaproject/persona_plymouth
 cd persona_plymouth
 chmod ug+x ./install.sh
 ./install.sh
 ```
-</div
+
 
 How to Edit
 
@@ -24,11 +24,11 @@ How to Edit
 ```
 sudo nautilus /usr/share/plymouth/themes/persona/
 ```
-3. a.) (logo centre) replace ubuntu.png with your picture (give your picture name "ubuntu.png" without "") 
-   b.) (Hi, Text) replace msh_text.png with your picture (give your picture name "msh_text.png" without "")
+3. * (logo centre), replace ubuntu.png with your picture (give your picture name "ubuntu.png" ) 
+   * (Hi, Text), replace msh_text.png with your picture (give your picture name "msh_text.png" )
 
 Any Questions?
 Plz contact me on
-me.msyariefh@gmail.com
-085225915434 (Whatsapp)
+* me.msyariefh@gmail.com
+* 085225915434 (Whatsapp)
 
