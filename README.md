@@ -5,7 +5,7 @@
 </div
 
 
-How To install
+# How To install
 
 1. open terminal
 2. enter this command
@@ -17,7 +17,7 @@ chmod ug+x ./install.sh
 ```
 
 
-How to Edit
+# How to Edit
 
 1. open terminal
 2. enter this command
