@@ -5,9 +5,7 @@
 </div
 
 
-
-
-<h2>how To install</2>
+<h2>how To install</h2>
 1. open terminal
 2. enter this
 ```
@@ -31,3 +29,4 @@ Any Questions?
 Plz contact me on
 me.msyariefh@gmail.com
 085225915434 (Whatsapp)
+
