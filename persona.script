@@ -5,7 +5,6 @@
 # Terimakasih
 
 MAX_MSG_DISPLAYED = 5;
-text = Str["Hi, Human...."];
 
 bg_image = Image("persona_background.png");
 window_max_width = Window.GetX() * 2 + Window.GetWidth();
@@ -45,7 +44,7 @@ text.image = Image.Text ("Hi, M. Syarief Hidayatulloh",255,255,255,1, ubuntufont
 #change "Hi, M. Syarief Hidayatulloh" with your name/ text
 text.sprite = Sprite(text.image);
 text.x = Window.GetX() + Window.GetWidth()  / 2 - text.image.GetWidth() / 2;
-text.y = Window.GetY() + Window.GetHeight() * 0.50  - text.image.GetHeight() / 2;
+text.y = Window.GetY() + Window.GetHeight() * 0.495  - text.image.GetHeight() / 2;
 text.sprite.SetPosition(text.x, text.y, 2);
 
 #------------------------------- Logo center ----------------------------------------------
