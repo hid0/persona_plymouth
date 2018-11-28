@@ -7,7 +7,8 @@
 
 	
 preview from terminal with ```sudo plymouthd ; sudo plymouth --show-splash ; for ((I=0; I<10; I++)); do sleep 1 ; sudo plymouth --update=test$I ; done ; sudo plymouth --quit```
-	
+
+# Beginner in Plymouth
 # How To install
 
 1. open terminal
@@ -25,7 +26,7 @@ chmod ug+x ./install.sh
 ```
 sudo nautilus /usr/share/plymouth/themes/persona/
 ```
-3. * (logo centre), replace ubuntu.png with your picture (give your picture name "ubuntu.png" ) 
+3. * (logo centre), replace ubuntu_alt.png with your picture (give your picture name "ubuntu_alt.png" ) 
    * (Hi, Text), replace msh_text.png with your picture (give your picture name "msh_text.png" )
 
 Any Questions?
