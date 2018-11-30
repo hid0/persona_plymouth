@@ -1,14 +1,15 @@
+## Be a Beta Tester for Persona_Plymouth 1.0.5 !
+#### Try new models of Persona_Plymouth
+ Click at This https://github.com/personaproject/persona_plymouth_1.0.5 
+	
 <div align="center">
 	<h1>Persona_Plymouth</h1>
 	<p>Minimalize progress bar to Persona</p>
 	<img src="preview_persona.png">
-</div
-
-
+</div>
 	
 preview from terminal with ```sudo plymouthd ; sudo plymouth --show-splash ; for ((I=0; I<10; I++)); do sleep 1 ; sudo plymouth --update=test$I ; done ; sudo plymouth --quit```
 
-# Beginner in Plymouth
 # How To install
 
 1. open terminal
