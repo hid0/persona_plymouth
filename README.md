@@ -1,7 +1,8 @@
-## Be a Beta Tester for Persona_Plymouth 1.0.5 !
-#### Try new models of Persona_Plymouth
- Click at This https://github.com/personaproject/persona_plymouth_1.0.5 
-	
+ ### Be a Beta Tester for Persona_Plymouth 1.0.5 !
+ ``` 
+ Try new models of Persona_Plymouth
+ Go to https://github.com/personaproject/persona_plymouth_1.0.5 
+ ```
 <div align="center">
 	<h1>Persona_Plymouth</h1>
 	<p>Minimalize progress bar to Persona</p>
